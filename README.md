@@ -17,5 +17,5 @@ US State abbrevations was retrieved from: https://www.50states.com/abbreviations
 
 - [X] How do plan rates and benefits vary across states?
 - [ ] How do plan benefits relate to plan rates?
-- [ ] How do plan rates vary by age?
+- [X] How do plan rates vary by age?
 - [ ] How do plans vary across insurance network providers?
