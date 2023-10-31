@@ -1,3 +1,11 @@
-data/
+### Exclude
+
+# Data folder
+data/*
+
+# IDE files
 **/__pycache__/
 **/.ipynb_checkpoints/
+
+### Include
+!data/README.md
