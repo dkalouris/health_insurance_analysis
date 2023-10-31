@@ -11,7 +11,9 @@ Due to size restrictions data is not uploaded and can be found in the challenge 
 - Rate PUF (Rate-PUF) – Plan-level data on rates based on an eligible subscriber’s age, tobacco use, and geographic location; and family-tier rates.
 - Service Area PUF (SA-PUF) – Issuer-level data on geographic service areas including state, county, and zip code.
 
-US State abbrevations was retrieved from: https://www.50states.com/abbreviations.htm and pasted into LibreOffice Clac and saved as csv to be used as dictionary for abbrevation
+### Secondary tables
+
+- Us_State_Abbrevations.csv: US State abbrevations was retrieved from: https://www.50states.com/abbreviations.htm, pasted into LibreOffice Calc and saved as csv to be used as dictionary for looking up abbrevations.
 
 ### Questions to answer:
 
